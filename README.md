@@ -7,4 +7,4 @@
 - [Resources](#Resource)
 
 ## Survey
-202304 [Everything is connected: Graph neural networks](https://doi.org/10.1016/j.sbi.2023.102538)
+1. 2023. [Everything is connected: Graph neural networks](https://doi.org/10.1016/j.sbi.2023.102538). Veličković Petar. Current Opinion in Structural Biology.
